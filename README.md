@@ -2,3 +2,4 @@
 - LAMBDA
 - EC2
 - HTTP
+- BUCKETS
