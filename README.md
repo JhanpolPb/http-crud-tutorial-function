@@ -1,2 +1,4 @@
 # HTTP CRUD AWS
 - LAMBDA
+- EC2
+- HTTP
