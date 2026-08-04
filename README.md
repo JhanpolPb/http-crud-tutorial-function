@@ -3,3 +3,4 @@
 - EC2
 - HTTP
 - BUCKETS
+- DYNAMODB
