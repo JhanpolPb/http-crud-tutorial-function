@@ -12,3 +12,4 @@
 
 # DEPLOY
 - AWS CLI
+- AWS LAMBDA
