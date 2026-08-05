@@ -9,3 +9,6 @@
 - POST
 - PUT
 - DELETE
+
+# DEPLOY
+- AWS CLI
