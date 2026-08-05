@@ -7,3 +7,4 @@
 - PETICIONES HTTP:
 - GET
 - POST
+- PUT
