@@ -23,3 +23,4 @@
 
 # AUTOR
 JHANPOL PARRA BARRETO
+Ingeniero de Software
